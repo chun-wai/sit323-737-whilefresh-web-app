@@ -1,0 +1,38 @@
+{
+  "name": "whilefresh.com---fresh-fruits",
+  "version": "1.0.0",
+  "description": "whilefresh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chun-wai/whilefresh.git"
+  },
+  "keywords": [
+    "fresh",
+    "fruits"
+  ],
+  "author": "anson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chun-wai/whilefresh/issues"
+  },
+  "homepage": "https://github.com/chun-wai/whilefresh#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "jsonwebtoken": "^9.0.0",
+    "nodemon": "^2.0.22",
+    "passport": "^0.6.0",
+    "passport-jwt": "^4.0.1",
+    "passport-local": "^1.0.0",
+    "path": "^0.12.7",
+    "uuid": "^9.0.0",
+    "winston": "^3.9.0"
+  }
+}
